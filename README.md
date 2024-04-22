@@ -1,10 +1,11 @@
 # DATAVIZ-PEC2
 
 Técnicas asignadas:
-- Venn Diagram
+- Stacked Bar Plot
   - Absolute: https://infogram.com/netflix-stacked-bar-chart-simple-1h0r6rzpgj8pl4e?live
   - Relative: https://infogram.com/netflix-stacked-bar-chart-percent-1hxj48mpwxrw52v?live
-- Stacked Bar Plot: https://infogram.com/spotify-venn-diagram-1hxj48mpwx98q2v?live
+- Venn Diagram
+  - https://infogram.com/spotify-venn-diagram-1hxj48mpwx98q2v?live
 - Horizon Graph
 
 Datasets:
